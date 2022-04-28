@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  creation_date: 2022-04-28
+  rating: 1
+  associated_characters: MyString
+  character: one
+
+two:
+  title: MyString
+  creation_date: 2022-04-28
+  rating: 1
+  associated_characters: MyString
+  character: two
