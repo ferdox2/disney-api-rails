@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Baymax = Character.create({
+    name: "Baymax",
+    age: 2,
+    weight: 3.5,
+    history: "jbf wfbcvc bsdjbhjcajwfjd fdbchbsadgasdcj dhbjkhdbc wgdh hsdudeubbyuwcbdjsc chbschbjcbsj "
+})
